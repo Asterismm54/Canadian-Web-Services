@@ -1,6 +1,7 @@
 # Canadian-Web-Services
-Web services in Canada:
+Web services in Canada 
 
+The Hosts (domain names, VPS, email, website hosting, cybersecurity, etc.):
 1. https://www.namespro.ca/
 2. https://baremetal.ca/
 3. https://easydns.com/
