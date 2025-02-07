@@ -7,6 +7,7 @@ Web services in Canada:
 4. https://www.whc.ca/
 5. https://canadianwebhosting.com/
 6. https://websavers.ca
+7. https://www.cira.ca/
    
 *Note: many of these companies will provide OpenBSD if asked/requested, even if it isn't advertised.  It is recommended that you have an OpenBSD autoconfig file, although many Canadian companies will already have this.
 
