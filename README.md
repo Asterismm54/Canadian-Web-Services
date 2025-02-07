@@ -1,9 +1,5 @@
 # Canadian-Web-Services
-Web services in Canada.
-
-This is a listing of web service providers in Canada.
-
-Listing of Canadian web service providers:
+Web services in Canada:
 
 1. https://www.namespro.ca/
 2. https://baremetal.ca/
