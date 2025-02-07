@@ -6,6 +6,7 @@ Web services in Canada:
 3. https://easydns.com/
 4. https://www.whc.ca/en
 5. https://canadianwebhosting.com/
+   
 *Note: many of these companies will provide OpenBSD if asked/requested, even if it isn't advertised.
 
 We also recommend that you add Canadian businesses to the directory here: https://madeinca.ca/submissions/
