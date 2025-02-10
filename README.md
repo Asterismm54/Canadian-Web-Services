@@ -12,5 +12,6 @@ Web services in Canada (domain names, VPS, email, website hosting, cybersecurity
 *Note: many of these companies will provide OpenBSD if asked/requested, even if it isn't advertised.  It is recommended that you have an OpenBSD autoconfig file, although many Canadian companies will already have this.
 
 We also recommend that you add Canadian businesses to the directory here: https://madeinca.ca/submissions/
+Canadian web hosts: https://madeinca.ca/category/internets/hosting/
 
 Support local!
