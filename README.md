@@ -9,6 +9,7 @@ Web services in Canada (domain names, VPS, email, website hosting, cybersecurity
 7. https://www.cira.ca/
 8. https://dotcanada.com/
 9. https://www.servermania.com
+10. https://www.ovhcloud.com/en-ca/
    
 *Note: many of these companies will provide OpenBSD if asked/requested, even if it isn't advertised.  It is recommended that you have an OpenBSD autoconfig file, although many Canadian companies will already have this.
 
