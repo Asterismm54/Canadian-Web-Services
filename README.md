@@ -16,4 +16,6 @@ Web services in Canada (domain names, VPS, email, website hosting, cybersecurity
 We also recommend that you add Canadian businesses to the directory here: https://madeinca.ca/submissions/
 Canadian web hosts: https://madeinca.ca/category/internets/hosting/
 
+Please note that by purchasing a ".ca" you are agreeing to: https://www.cira.ca/en/resources/documents/about/registrant-agreement/
+
 Support local!
